@@ -4,7 +4,7 @@
 title = Precision Land Calculator
 
 # (str) Package name
-package.name = land calculator juel
+package.name = landcalculatorjuel
 
 # (str) Package domain
 package.domain = org.landcalc
